@@ -1,5 +1,5 @@
 # Shark Attack
-![Tiburon](/images/tiburon.png)
+![Tiburon](/images/tiburon.jpg)
 
 En este proyecto analizamos los ataques de tiburon alrededor del mundo partiendo de la informacion del DataSet que disponen desde Global Shark Attack File: link Dataset https://www.kaggle.com/teajay/global-shark-attacks/version/1 o desde su web para mas informacion http://www.sharkattackfile.net/index.htm. 
 
